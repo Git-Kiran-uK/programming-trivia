@@ -1,0 +1,32 @@
+{
+  "python": [
+    "It was named after a British comedy TV show.",
+    "It uses indentation instead of braces.",
+    "It's widely used for AI, automation and scripting.",
+    "It is often recommended to beginners."
+  ],
+  "javascript": [
+    "Originally ran only inside web browsers.",
+    "It was created in just 10 days.",
+    "It powers modern web interactions.",
+    "Node.js allows it to run on servers."
+  ],
+  "java": [
+    "Its motto is 'write once, run anywhere'.",
+    "Runs on the JVM.",
+    "Popular in enterprise and Android development.",
+    "Syntax is influenced by C and C++."
+  ],
+  "c": [
+    "Known as the mother of many other languages.",
+    "Created at Bell Labs.",
+    "Gives low-level memory access.",
+    "Used in operating systems and embedded systems."
+  ],
+  "go": [
+    "Created by Google engineers.",
+    "Known for goroutines and fast concurrency.",
+    "Often used in backend engineering.",
+    "Mascot is a Gopher."
+  ]
+}
